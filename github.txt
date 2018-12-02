@@ -1,0 +1,15 @@
+git clone git@github.com:Amarjithtk/kernel_xiaomi_land.git
+git clone git@github.com:Amarjithtk/android_vendor_land.git
+git@github.com:Amarjithtk/kernel_xiaomi_land.git
+ git clone git@github.com:Amarjit                                                                                        htk/pixys_device_land.git
+
+
+git push https://github.com/Amarjithtk/kernel_xiaomi_land.git +new-project:Pixys
+git push https://github.com/Amarjithtk/pixys_device_land.git +new-project:master
+git push https://github.com/Amarjithtk/kernel_xiaomi_land.git +old_branch:lineage-16.0
+git checkout -b lineage-16.0
+
+git push git@github.com:Amarjithtk/kernel_xiaomi_land.git
+git push git@github.com:Amarjithtk/android_vendor_land.git
+
+git checkout -b Pixys 
