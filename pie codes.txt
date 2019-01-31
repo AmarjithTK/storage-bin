@@ -138,4 +138,12 @@ Hide power menu on lock screen
 Added power button to hardware key remapping
 Batteryfc fixed
 File transfer fixed
+©️Amarjith©️:
+cd hardware/qcom
+rm -rf audio-caf display-caf media-caf
+cd ../..
+
+git clone https://github.com/RiteshSaxena/hardware_qcom_display -b pie-caf-8996 hardware/qcom/display-caf/msm8996
+git clone https://github.com/RiteshSaxena/hardware_qcom_media -b pie-caf-8996 hardware/qcom/media-caf/msm8996 
+git clone https://github.com/RiteshSaxena/hardware_qcom_audio -b pie-caf-8996 hardware/qcom/audio-caf/msm8996
 
