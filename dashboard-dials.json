@@ -1,0 +1,80 @@
+
+   [
+
+        [
+
+            "bag-outline",
+            "book-outline",
+            "calender-outline",
+            "chatbox-outline",
+            "cloud-outline",
+            "code-outline",
+            "color-palette-outline",
+            "flower-outline",
+            "globe-outline",
+            "grid-outline",
+            "images-outline",
+            "mail-outline",
+            "navigate-outline",
+            "newspaper-outline",
+            "prism-outline",
+            "rocket-outline",
+            "timer-outline",
+            "logo-google-playstore"
+          
+
+
+
+        ],
+
+        [
+       
+        {
+            "name": "Google",
+            "url": "https://google.co.in",
+            "icon": "logo-google"
+        },
+
+        {
+            "name": "Youtube",
+            "url": "https://youtube.in",
+            "icon": "logo-youtube"
+        },
+        {
+            "name": "Typing practice",
+            "url": "https://google.co.in",
+            "icon": "speedometer-outline"
+        },
+        {
+            "name": "Whatsapp",
+            "url": "https://web.whatsapp.com",
+            "icon": "logo-whatsapp"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/AmarjithTK?tab=repositories",
+            "icon": "logo-github"
+        },
+        {
+            "name": "CodingHeros Resources",
+            "url": "https://codingheroes.io/resources/",
+            "icon": "albums-outline"
+        },
+        {
+            "name": "GeeksForGeeks",
+            "url": "https://www.geeksforgeeks.org/",
+            "icon": "trophy-outline"
+        },
+        {
+            "name": "W3Schools",
+            "url": "https://github.com/AmarjithTK?tab=repositories",
+            "icon": "school-outline"
+        },
+        {
+            "name": "Mails",
+            "url": "https://codingheroes.io/resources/",
+            "icon": "mail-unread-outline"
+        }
+    ]
+
+   ]
