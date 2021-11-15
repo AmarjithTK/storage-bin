@@ -1,31 +1,7 @@
 
-   [
+  
 
-        [
-
-            "bag-outline",
-            "book-outline",
-            "calender-outline",
-            "chatbox-outline",
-            "cloud-outline",
-            "code-outline",
-            "color-palette-outline",
-            "flower-outline",
-            "globe-outline",
-            "grid-outline",
-            "images-outline",
-            "mail-outline",
-            "navigate-outline",
-            "newspaper-outline",
-            "prism-outline",
-            "rocket-outline",
-            "timer-outline",
-            "logo-google-playstore"
-          
-
-
-
-        ],
+      
 
         [
        
@@ -72,9 +48,9 @@
         },
         {
             "name": "Mails",
-            "url": "https://codingheroes.io/resources/",
+            "url": "https://gmail.co.in",
             "icon": "mail-unread-outline"
         }
     ]
 
-   ]
+   
