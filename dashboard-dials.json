@@ -4,11 +4,13 @@
       
 
         [
+          
+          
        
         {
-            "name": "Google",
-            "url": "https://google.co.in",
-            "icon": "logo-google"
+            "name": "Google News",
+            "url": "https://news.google.com",
+            "icon": "newspaper-outline"
         },
 
         {
@@ -16,10 +18,31 @@
             "url": "https://youtube.in",
             "icon": "logo-youtube"
         },
+          
+             {
+            "name": "Portainer",
+            "url": "https://portainer.ec1.duckdns.org",
+            "icon": "cube-outline"
+        },
         {
-            "name": "Typing practice",
+            "name": "Typing Race",
             "url": "https://google.co.in",
             "icon": "speedometer-outline"
+        },
+            {
+            "name": "Amazon",
+            "url": "https://amazon.in",
+            "icon": "logo-amazon"
+        },
+            {
+            "name": "Udemy",
+            "url": "https://udemy.com",
+            "icon": "logo-nodejs"
+        },
+            {
+            "name": "Dribble",
+            "url": "https://dribble.com",
+            "icon": "logo-firefox"
         },
         {
             "name": "Whatsapp",
@@ -32,12 +55,12 @@
             "icon": "logo-github"
         },
         {
-            "name": "CodingHeros Resources",
+            "name": "CodingHeros",
             "url": "https://codingheroes.io/resources/",
             "icon": "albums-outline"
         },
         {
-            "name": "GeeksForGeeks",
+            "name": "Geeks For Geeks",
             "url": "https://www.geeksforgeeks.org/",
             "icon": "trophy-outline"
         },
@@ -48,7 +71,7 @@
         },
         {
             "name": "Mails",
-            "url": "https://gmail.co.in",
+            "url": "https://gmail.com",
             "icon": "mail-unread-outline"
         }
     ]
