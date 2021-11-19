@@ -8,69 +8,75 @@
           
        
         {
-            "name": "Google News",
-            "url": "https://news.google.com",
-            "icon": "newspaper-outline"
-        },
-
-        {
-            "name": "Youtube",
-            "url": "https://youtube.in",
-            "icon": "logo-youtube"
+            "name": "Free Code Camp",
+            "url": "https://www.freecodecamp.org",
+            "icon": "code-slash-outline"
         },
           
-             {
-            "name": "Portainer",
-            "url": "https://portainer.ec1.duckdns.org",
-            "icon": "cube-outline"
-        },
-        {
-            "name": "Typing Race",
-            "url": "https://google.co.in",
-            "icon": "speedometer-outline"
-        },
             {
-            "name": "Amazon",
-            "url": "https://amazon.in",
-            "icon": "logo-amazon"
+            "name": "Dribbble",
+            "url": "https://dribbble.com",
+            "icon": "logo-firefox"
         },
             {
             "name": "Udemy",
             "url": "https://udemy.com",
             "icon": "logo-nodejs"
         },
-            {
-            "name": "Dribble",
-            "url": "https://dribble.com",
-            "icon": "logo-firefox"
+
+        {
+            "name": "Transmission",
+            "url": "https://transmission.ec1.duckdns.org",
+            "icon": "download-outline"
         },
+         
+            {
+            "name": "Github",
+            "url": "https://github.com/AmarjithTK?tab=repositories",
+            "icon": "logo-github"
+        },
+            {
+            "name": "Coding Heros",
+            "url": "https://codingheroes.io/resources/",
+            "icon": "albums-outline"
+        },
+               {
+            "name": "Geeks For Geeks",
+            "url": "https://www.geeksforgeeks.org/",
+            "icon": "trophy-outline"
+        },
+        {
+            "name": "Typing Race",
+            "url": "https://www.typingstudy.com/",
+            "icon": "speedometer-outline"
+        },
+              {
+            "name": "Portainer",
+            "url": "https://portainer.ec1.duckdns.org",
+            "icon": "cube-outline"
+        },
+            {
+            "name": "Amazon",
+            "url": "https://amazon.in",
+            "icon": "logo-amazon"
+        },
+          
+          
         {
             "name": "Whatsapp",
             "url": "https://web.whatsapp.com",
             "icon": "logo-whatsapp"
         },
-        {
-            "name": "Github",
-            "url": "https://github.com/AmarjithTK?tab=repositories",
-            "icon": "logo-github"
-        },
-        {
-            "name": "Coding Heros",
-            "url": "https://codingheroes.io/resources/",
-            "icon": "albums-outline"
-        },
-        {
-            "name": "Geeks For Geeks",
-            "url": "https://www.geeksforgeeks.org/",
-            "icon": "trophy-outline"
-        },
+      
+      
+   
         {
             "name": "W3 Schools",
             "url": "https://github.com/AmarjithTK?tab=repositories",
             "icon": "school-outline"
         },
         {
-            "name": "Mails",
+            "name": "Gmails",
             "url": "https://gmail.com",
             "icon": "mail-unread-outline"
         }
