@@ -14,6 +14,10 @@
     whatsdirect - no need to save whatsapp numbers --->
     shareme opensource alternatives - we need two of them
     remote video player - raspberry movie streaming
+    office suite / pdf reader - opensource version
+    
+    
+    also don't forget to ask reddit for favorite f droid apps to get useful apps
   
   
   
