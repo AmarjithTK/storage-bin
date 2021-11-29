@@ -1,0 +1,16 @@
+
+
+----------- To connect to android device over adb wifi debugging for flutter hot reload/restart --------------
+
+
+
+connect with usual usb cable once and type
+
+adb tcpip 5555
+
+now remove the cable
+
+and connect to the wifi network
+
+then type ---> adb connect _device-ip
+
