@@ -1,0 +1,33 @@
+### JS promises or Dart/Java/Kotlin Futures
+
+Promises, something that daunts you for some time
+
+
+
+#### what is the promise in real life ?
+
+It has two outcomes , resolved ( or done ) and rejected ( or failed )
+
+same case with promises
+
+function SyncImages () {
+
+  return new promise ((resolve,reject) => {
+    
+      a = 1+ 1;
+      
+      if(a==2) resolve( a + 'is resolved )
+      else reject ( a + ' is rejected ')
+    
+  });
+
+}
+
+
+
+SyncImages().then( data => {
+      console.log(data);
+})
+.catch( err =>{
+      console.log(err);
+})
