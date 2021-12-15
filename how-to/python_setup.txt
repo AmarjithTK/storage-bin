@@ -1,0 +1,34 @@
+# python venv creation
+
+
+  python3 -m venv path_to_env
+  
+  
+
+for in the working dir,
+
+
+  python3 -m venv ./my_venv    --> this folder
+  
+  
+Activating virtual env
+
+  source ./my_venv/bin/activate
+
+
+Deactivating venvs
+
+  deactivate  
+  
+
+
+# pip install
+
+
+  pip install package_name
+  
+  # any txt file will work
+  
+  pip install -r requirements.txt 
+  
+  pip uninstall package_name
