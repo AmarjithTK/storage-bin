@@ -7,40 +7,106 @@
           
           
        
-        {
-            "name": "Free Code Camp",
-            "url": "https://www.freecodecamp.org",
-            "icon": "code-slash-outline"
-        },
-          
-            {
-            "name": "Dribbble",
-            "url": "https://dribbble.com",
-            "icon": "logo-firefox"
-        },
+        
             {
             "name": "Udemy",
             "url": "https://udemy.com",
             "icon": "logo-nodejs"
         },
 
-        {
-            "name": "Transmission",
-            "url": "https://transmission.ec1.duckdns.org",
-            "icon": "download-outline"
-        },
          
             {
             "name": "Github",
             "url": "https://github.com/AmarjithTK?tab=repositories",
             "icon": "logo-github"
         },
-            {
-            "name": "Coding Heros",
-            "url": "https://codingheroes.io/resources/",
-            "icon": "albums-outline"
+        {
+            "name": "Gmails",
+            "url": "https://gmail.com",
+            "icon": "mail-unread-outline"
         },
-               {
+        
+          
+          
+      
+      
+        {
+            "name": "W3 Schools",
+            "url": "https://github.com/AmarjithTK?tab=repositories",
+            "icon": "school-outline"
+        },
+        
+          {
+            "name": "Dribbble",
+            "url": "https://dribbble.com",
+            "icon": "logo-firefox"
+        },
+           {
+            "name": "Youtube",
+            "url": "youtube.com",
+            "icon": "logo-youtube"
+        },
+        
+         {
+            "name": "Flask pallet",
+            "url": "youtube.com",
+            "icon": "flask-outline"
+        },
+         {
+            "name": "Pub.dev",
+            "url": "pub.dev",
+            "icon": "code-download-outline"
+        },
+         {
+            "name": "Firebase console",
+            "url": "console.firebase.google.com",
+            "icon": "logo-firebase"
+        },
+        
+         {
+            "name": "Golang",
+            "url": "go.dev",
+            "icon": "baseball-outline"
+        },
+         {
+            "name": "Rust",
+            "url": "rust-lang.org",
+            "icon": "bug-outline"
+        },
+         {
+            "name": "Developer Gnome",
+            "url": "developer.gnome.org",
+            "icon": "bag-add-outline"
+        },
+         {
+            "name": "flutter docs",
+            "url": "docs.flutter.dev",
+            "icon": "map-outline"
+        },
+         {
+            "name": "Kotlin lang",
+            "url": "kotlinlang.org",
+            "icon": "git-merge-outline"
+        },
+         {
+            "name": "Android developers",
+            "url": "developer.android.com",
+            "icon": "logo-android"
+        },
+        {
+            "name": "Free Code Camp",
+            "url": "https://www.freecodecamp.org",
+            "icon": "code-slash-outline"
+        },
+          
+          
+        {
+            "name": "Transmission",
+            "url": "https://transmission.ec1.duckdns.org",
+            "icon": "download-outline"
+        },
+        
+             {
             "name": "Geeks For Geeks",
             "url": "https://www.geeksforgeeks.org/",
             "icon": "trophy-outline"
@@ -50,10 +116,10 @@
             "url": "https://my.typingtrainer.com/courses",
             "icon": "speedometer-outline"
         },
-              {
-            "name": "Portainer",
-            "url": "https://portainer.ec1.duckdns.org",
-            "icon": "cube-outline"
+          {
+            "name": "Coding Heros",
+            "url": "https://codingheroes.io/resources/",
+            "icon": "albums-outline"
         },
             {
             "name": "Amazon",
@@ -67,19 +133,12 @@
             "url": "https://web.whatsapp.com",
             "icon": "logo-whatsapp"
         },
-      
-      
-   
-        {
-            "name": "W3 Schools",
-            "url": "https://github.com/AmarjithTK?tab=repositories",
-            "icon": "school-outline"
-        },
-        {
-            "name": "Gmails",
-            "url": "https://gmail.com",
-            "icon": "mail-unread-outline"
+              {
+            "name": "Portainer",
+            "url": "https://portainer.ec1.duckdns.org",
+            "icon": "cube-outline"
         }
+        
     ]
 
    

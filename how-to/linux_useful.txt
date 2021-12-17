@@ -1,0 +1,15 @@
+tarballs extraction and compression
+
+
+
+ tar -xvf file.tar // to extract
+ 
+ // tar.gz extraction
+ 
+ tar -xzvf file.tar.gz
+ 
+ tar bz2 extraction
+ 
+ tar -xjvf file.tar.bz2
+ 
+ 
