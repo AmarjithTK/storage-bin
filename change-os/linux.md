@@ -1,6 +1,14 @@
 ## Changing OS
 
 
+Installing ZSH using arch 
+	
+	sudo pacman -S zsh 	-- shell installation
+	yay -S --noconfirm zsh-theme-powerlevel10k-git	  -- theme installation
+	echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+	
+
+
 
  Chrome extensions
  

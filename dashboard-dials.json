@@ -43,54 +43,54 @@
         },
            {
             "name": "Youtube",
-            "url": "youtube.com",
+            "url": "https://youtube.com",
             "icon": "logo-youtube"
         },
         
          {
             "name": "Flask pallet",
-            "url": "youtube.com",
+            "url": "https://flask.palletsprojects.com/en/2.0.x/",
             "icon": "flask-outline"
         },
          {
             "name": "Pub.dev",
-            "url": "pub.dev",
+            "url": "https://pub.dev",
             "icon": "code-download-outline"
         },
          {
             "name": "Firebase console",
-            "url": "console.firebase.google.com",
+            "url": "https://console.firebase.google.com",
             "icon": "logo-firebase"
         },
         
          {
             "name": "Golang",
-            "url": "go.dev",
+            "url": "https://go.dev",
             "icon": "baseball-outline"
         },
          {
             "name": "Rust",
-            "url": "rust-lang.org",
+            "url": "https://rust-lang.org",
             "icon": "bug-outline"
         },
          {
             "name": "Developer Gnome",
-            "url": "developer.gnome.org",
+            "url": "https://developer.gnome.org",
             "icon": "bag-add-outline"
         },
          {
             "name": "flutter docs",
-            "url": "docs.flutter.dev",
+            "url": "https://docs.flutter.dev",
             "icon": "map-outline"
         },
          {
             "name": "Kotlin lang",
-            "url": "kotlinlang.org",
+            "url": "https://kotlinlang.org",
             "icon": "git-merge-outline"
         },
          {
             "name": "Android developers",
-            "url": "developer.android.com",
+            "url": "https://developer.android.com",
             "icon": "logo-android"
         },
         {
