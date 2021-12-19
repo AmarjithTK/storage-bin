@@ -28,5 +28,6 @@
   
     call recording on google dialer zip on magisk library --->
     microg minmicrog minimal zip --->
+    app measurement disable magisk -- https://forum.xda-developers.com/t/mod-magisk-root-magisk-module-to-disable-app-ads-analytics-firebase-crashlytics.4363077/
 
     
