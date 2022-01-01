@@ -31,3 +31,19 @@
 	
 	
 	SuperHero.getSpeed() // class methods
+	
+// Map data type	
+	
+	Map<String key , Datatype data> 
+	
+	the same 
+	
+		python dict
+		js maps 
+		
+		just key value pairs
+		
+	
+	
+		
+	

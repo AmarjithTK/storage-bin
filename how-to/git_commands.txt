@@ -1,0 +1,21 @@
+---------------------------git commands----------------------------
+
+
+undo a commit hard
+	
+	git reset --hard HEAD~1 to one commit before
+	git reset --hard HEAD~2 to two commits before
+		
+	--soft keeps the local changes
+		
+	 
+git amend
+
+
+	git commit -m "oopssie"  // forgot to add extra files
+	
+	git add extra_files
+	
+	git commit --amend // same commit but extra files
+	
+
