@@ -1,4 +1,10 @@
- [
+{
+ 
+    "buttonText": "&RightArrowBar; &nbsp; &nbsp; മലയാളത്തിൽ വായിക്കാൻ ",
+    "title": "My self defense",
+    "subtitle": " Short bullet points to explain the scam going on to coersive people    ",
+ 
+ "bulletpoints":[
      "FDA warning new myocarditis deaths and gullain barre syndrome warnings, warning after done everything ?",
      "Why not mandatorily close down twice a week the alcohol bars , mcdonalds and chicking , KFC fast foods for your health",
      "New zealand bans cigerette for lifetime , <strong> but wants you take experimental gene therapy </strong>",
@@ -89,3 +95,6 @@
 
 
  ]
+
+
+}
