@@ -18,6 +18,8 @@ Installing ZSH using arch
 	json pretty print - (https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
 	music mode youtube - (https://chrome.google.com/webstore/detail/abbpaepbpakcpipajigmlpnhlnbennna)
 	undisposition racle fork
+	note anywhere https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh?hl=en
+	infinity dashboard pro
 
 
 Apps
@@ -26,5 +28,8 @@ Apps
 	Color pick gpick
 	redshifter arch aur
 	fish bash terminal
-
+	
+	Ticking clock
+	Free timer from comfortsoft
+	Challenge alarm clock
 
