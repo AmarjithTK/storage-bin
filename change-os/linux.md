@@ -27,6 +27,9 @@ Apps
 
 	elmocut
 	timey timer
+	
+	waydroid
+	
 	bluestacks anbox
 
 	sharik appimage
