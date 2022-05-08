@@ -1,6 +1,7 @@
 ## Changing OS
 
 
+
 Installing ZSH using arch 
 	
 	sudo pacman -S zsh 	-- shell installation
@@ -23,6 +24,10 @@ Installing ZSH using arch
 
 
 Apps
+
+	elmocut
+	timey timer
+	bluestacks anbox
 
 	sharik appimage
 	Color pick gpick
