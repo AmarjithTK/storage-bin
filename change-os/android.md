@@ -31,3 +31,9 @@
     app measurement disable magisk -- https://forum.xda-developers.com/t/mod-magisk-root-magisk-module-to-disable-app-ads-analytics-firebase-crashlytics.4363077/
 
     
+ROM with signature spoofing
+https://github.com/dreamwhite/gsync_adapters_for_magisk
+Contacts sync
+
+Microg for lineages 
+
