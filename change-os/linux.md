@@ -25,6 +25,9 @@ Installing ZSH using arch
 
 Apps
 
+
+	* KDE Connect works on windows too and it is way better than any other shit
+
 	elmocut
 	timey timer
 	
