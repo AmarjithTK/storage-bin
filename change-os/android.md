@@ -26,6 +26,34 @@
   
   # packages to install
   
+    Patched Lineage os with microg from Forklineagae or lineageos for microg
+    
+    magisk with zygisk on
+    microg installer revived
+    minmicrog unified nlp only package
+    acc advanced charge controller
+    universal safetynet fix by kdragon
+    gsync enabler by dreamwhite + google contacts app
+    aurora store and aurora droid apks
+    material files apk as file explorer as well as root browser
+    blockada for nothing but shit
+    
+    gcam from maheshtechnicals website
+    playbook lite for audiobooks
+    
+    
+    
+    
+    
+    
+    
+    
+    KDE connect
+    
+    take a good migrate backup of all these
+  
+  
+  
     call recording on google dialer zip on magisk library --->
     microg minmicrog minimal zip --->
     app measurement disable magisk -- https://forum.xda-developers.com/t/mod-magisk-root-magisk-module-to-disable-app-ads-analytics-firebase-crashlytics.4363077/
