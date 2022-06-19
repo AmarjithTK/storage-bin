@@ -27,6 +27,8 @@ Apps
 
 
 	* KDE Connect works on windows too and it is way better than any other shit
+	
+	activitywatch opensource
 
 	elmocut
 	timey timer
