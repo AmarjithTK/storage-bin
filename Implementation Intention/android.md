@@ -40,14 +40,8 @@
     
     gcam from maheshtechnicals website
     playbook lite for audiobooks
-    
-    
-    
-    
-    
-    
-    
-    
+
+    tapet for live generated wallpapers that change all days long long and its better
     KDE connect
     
     take a good migrate backup of all these

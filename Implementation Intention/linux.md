@@ -23,6 +23,15 @@ Installing ZSH using arch
 	infinity dashboard pro
 
 
+	Channelwise youtube video usage tracker - https://chrome.google.com/webstore/detail/watchtime-tracker/boabmhiakmbbkgjcekpmbihapljoaioc/related
+	A simple website usage tracker - https://chrome.google.com/webstore/detail/web-timer/efkkjffdefaaioagghcaflicdajfhceo/related?hl=en
+
+	Unhook for cleaner and better youtube -
+	Unhook + Kiwi browser for same experience in android devices too
+	
+	Speed up youtube videos - https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik/related?hl=en
+
+
 Apps
 
 
