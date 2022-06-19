@@ -15,7 +15,28 @@
     shareme opensource alternatives - we need two of them
     remote video player - raspberry movie streaming
     office suite / pdf reader - opensource version
-    
+    tapet live wallpapers
+    challenges alarm clock
+    pomodoro pomo timer
+    elevate
+math trainer pro
+	english grammer trainer
+	
+    advanced charge controller apk fdroid
+actiondash digital wellbeing
+applock fingerprint pro apk4all
+cleanfox for removing unwanted email subscriptions
+english grammmer in use and test
+kde connect
+maps go
+newpipe sponsorblock
+playbooks lite for audiobooks
+quotes widget by aswin
+rewire companion - gain back everything you have lost so far
+ticking alarm clock
+twilight app ( far better than default night light app )
+RHVoice as alternative speech engine than google TTS . first install this and acapella voice services then configure both at same time only then it works
+
     
     also don't forget to ask reddit for favorite f droid apps to get useful apps
   

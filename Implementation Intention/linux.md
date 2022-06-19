@@ -31,6 +31,12 @@ Installing ZSH using arch
 	
 	Speed up youtube videos - https://chrome.google.com/webstore/detail/youtube-playback-speed-co/hdannnflhlmdablckfkjpleikpphncik/related?hl=en
 
+	Website blocker with master password -https://chrome.google.com/webstore/detail/block-site/lebiggkccaodkkmjeimmbogdedcpnmfb/related?hl=en
+	( ideal for scenarios like your repeated behaviour of using pihole dashboard or nextdns status page, worldometers daily statistics and what else nonsensical behaviour )
+	
+	looper for youtube to play same song indefinitely -https://chrome.google.com/webstore/detail/looper-for-youtube/iggpfpnahkgpnindfkdncknoldgnccdg/related?hl=en
+
+
 
 Apps
 
