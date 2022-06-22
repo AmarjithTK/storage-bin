@@ -8,7 +8,7 @@ Installing ZSH using arch
 	yay -S --noconfirm zsh-theme-powerlevel10k-git	  -- theme installation
 	echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 	
-
+	
 
 
  Chrome extensions
@@ -25,6 +25,8 @@ Installing ZSH using arch
 
 	Channelwise youtube video usage tracker - https://chrome.google.com/webstore/detail/watchtime-tracker/boabmhiakmbbkgjcekpmbihapljoaioc/related
 	A simple website usage tracker - https://chrome.google.com/webstore/detail/web-timer/efkkjffdefaaioagghcaflicdajfhceo/related?hl=en
+
+	A better tracker - https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm/related
 
 	Unhook for cleaner and better youtube -
 	Unhook + Kiwi browser for same experience in android devices too
@@ -44,7 +46,7 @@ Apps
 	* KDE Connect works on windows too and it is way better than any other shit
 	
 	activitywatch opensource
-
+	free timer for windows - https://free-timer.com/ ( ticking sound )
 	elmocut
 	timey timer
 	
