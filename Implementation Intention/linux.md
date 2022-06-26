@@ -20,7 +20,8 @@ Installing ZSH using arch
 	music mode youtube - (https://chrome.google.com/webstore/detail/abbpaepbpakcpipajigmlpnhlnbennna)
 	undisposition racle fork
 	note anywhere https://chrome.google.com/webstore/detail/note-anywhere/bohahkiiknkelflnjjlipnaeapefmjbh?hl=en
-	infinity dashboard pro
+	infinity dashboard pro -https://chrome.google.com/webstore/detail/infinity-new-tab-pro/nnnkddnnlpamobajfibfdgfnbcnkgngh/related?hl=cs&itemlang=hi
+	sign in with revengexx for settings
 
 
 	Channelwise youtube video usage tracker - https://chrome.google.com/webstore/detail/watchtime-tracker/boabmhiakmbbkgjcekpmbihapljoaioc/related
@@ -50,6 +51,9 @@ Apps
 	elmocut
 	timey timer
 	
+
+	Rustdusk for chrome remote desktop and teamviewer alternative . supports everything and is opensource
+
 	waydroid
 	
 	bluestacks anbox
