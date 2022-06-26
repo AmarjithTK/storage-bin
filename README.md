@@ -1,3 +1,11 @@
+# standardize before optimize,
+
+	make the basic features that make up the website rather than polishing everything
+	Don't repeat the stupidities that you have been doing for the past years in polishing css sheets
+	use no css in the next projects that you do
+	if it works fine, then `never bother` to change it at all
+
+
 # storage bin 
 
     my storage bin for storing contents that could be fetched over internet for use in apps
