@@ -39,6 +39,15 @@ Installing ZSH using arch
 	
 	looper for youtube to play same song indefinitely -https://chrome.google.com/webstore/detail/looper-for-youtube/iggpfpnahkgpnindfkdncknoldgnccdg/related?hl=en
 
+	Youtube timestamps generated from comments or from creator 
+
+	https://chrome.google.com/webstore/detail/youtube-timestamps/fjchmkcdmgeimkholkgodkejnikeklmh?hl=en
+
+	user agent switcher and  manager
+
+	superb sticky note that stores seperate notes on individual pages and reloads on launch
+
+	https://chrome.google.com/webstore/detail/web-page-sticky-notes/alpjieidnmmkljnceakgpeajlngabnee/related 
 
 
 Apps
