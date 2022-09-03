@@ -3,3 +3,48 @@ add userconf.txt/userconfig to /boot get user configed , clue --> default userna
 no ssh access will be there if you don't do it using raspberry imager config
 
 for ssh add "ssh" to /boot
+
+
+adding user 
+
+
+sudo useradd username
+
+
+install avahi demon for hostnamee--------
+
+https://www.jfrog.com/connect/post/install-docker-compose-on-raspberry-pi/
+
+get a fast repo mirror -----------
+
+https://pimylifeup.com/raspbian-repository-mirror/
+https://www.raspbian.org/RaspbianMirrors
+
+
+create ssh key pairs on controller node ---------
+
+https://www.geekyhacker.com/2021/02/15/configure-ssh-key-based-authentication-on-raspberry-pi/
+
+and copy key to server 
+
+ssh-copy-id -i ~/.ssh/raspberrypi_rsa.pub pi-username@pi-ip-address
+
+
+add static ip address ------------------
+
+https://www.makeuseof.com/raspberry-pi-set-static-ip/
+
+interface eth0
+static ip_address=192.168.1.165
+
+
+ssh aliases ---------
+
+nano .ssh/config
+
+Host dockerboy
+	Hostname 192.168.1.1444
+	User virajdhawan
+
+
+Using tmux for terminal multiplexing ----------
