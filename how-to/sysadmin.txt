@@ -1,0 +1,19 @@
+Users ---------------------
+
+sudo useradd -m user__name // -m creates different home directory
+
+sudo passwd user__name 
+
+sudo usermod -aG groupname username
+
+Groups --------------------------
+
+groups user__name
+
+groupadd group__name
+
+
+
+
+systemctl enable --now cronie
+systemctl enable --now cronie.service

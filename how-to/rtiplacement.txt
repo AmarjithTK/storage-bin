@@ -1,0 +1,20 @@
+Dear Sir,
+
+I am requesting you to provide me with the data from placements and training cell of National institute of technology Hamirpur 
+
+Kindly provide branchwise data of placement session 2021-22 in tabular form 
+
+The data must include BTech , BTech-MTech Dual degree and MTech Students
+
+1) Total students in a particular branch
+2) Total number of students eligible for placement
+3) Total students registered for placements
+4) Total students who where placed 
+5) Percent of total students who where placed
+6) Maximum , Minimum  packages offered
+7) Average and Median packages offered
+8) Total no of students from each branch who opted for higher studies
+
+Thanks in advance
+
+Amarjith TK

@@ -48,3 +48,92 @@ Host dockerboy
 
 
 Using tmux for terminal multiplexing ----------
+
+
+tmux
+
+note down all the vim and tmux keybindings and start docker servers
+
+
+
+press ctrl+b first and then type the command
+
+eg : for splitting terminal vertical
+
+	ctrl + b
+	then type "
+
+
+
+Auto mounting usb pendrive using genfstab prop --------
+
+format the pendrive
+
+sudo lsblk
+sudo mount /dev/sdx mount_folder
+sudo umount /dev/sdx or mount_folder
+
+sudo cfdisk /dev/sdx
+ 
+format as linux filesystem
+
+sudo mkfs.fat -F 32 /dev/sdx
+
+sudo mkdir -p /media/pendrive
+
+UUID=AA56-0938 /media/pendrive vfat dmask=000,fmask=111 0 0
+
+https://sleeplessbeastie.eu/2019/01/21/how-to-verify-fstab-file/
+
+
+Using rsync to sync files between -------------
+
+
+
+Portainer installation 
+
+
+code to install Portainer : 
+sudo docker run -d -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:linux-arm
+
+
+
+
+Tranmission client installation even for docker
+
+https://pimylifeup.com/raspberry-pi-transmission/
+
+sudo chown -R is must even for docker
+
+
+Use avahi daemon ---------------
+
+sarabhai.local is the access point
+
+https://smallbusiness.chron.com/edit-host-name-macbook-51071.html
+
+
+linuxserver io has proper documentation
+
+https://docs.linuxserver.io/images/docker-code-server
+
+
+Sway port forwarding ----------------------------
+
+I rebuilt my server and I kept on getting bad gateway 502 error.
+
+The fix was to edit homeassistant.subdomain.conf
+
+and change both the proxy_pass to use the local IP address of the server instead eg.
+proxy_pass http://xxx.xxx.xxx.xxxx:8123;
+
+
+.bashrc
+
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_vikram
+fi
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_himadri
+fi
